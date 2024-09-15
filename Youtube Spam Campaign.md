@@ -16,7 +16,8 @@ Upon further investigation, it turns out that they posted the full video but it 
 The way that they would go about circumventing this and posting the uncensored one was they would look for websites that necessarily did not have CSAM Detection Tools, And in the event that a link was taken down, they would log into the "test" account, which was where the video is usually hosted, and change any of the links that were in the video's description.
 
 The very first link they had posted on this day was hosted by catbox.moe, In the video's description there was a backwards link separated by spaces, that directed users where to go to download and watch the material. Soon as I was aware of this I reported the video to Youtube's Trust and Safety Team and the video was taken down immediately.
-![[Screenshot_20240915-034518 2.png]]
+
+![First Report](https://github.com/grandt0ur/Investigations/blob/main/Images/Screenshot_20240915-034518%202.png)
 
 I then reached out to multiple other users who saw the events happen firsthand. and was told that There seems to be an individual or group that is working in connection with each other to spread this material and was given the following information : 
 
@@ -24,7 +25,8 @@ I then reached out to multiple other users who saw the events happen firsthand. 
 
  
  The reason for this belief is due to the account naming structure, the way that the profiles are designed, and the channel that is actually uploading the material or directing users on where to go to access this material.
-![[Screenshot_20240915-035145.png]]
+ 
+![Example One](https://github.com/grandt0ur/Investigations/blob/main/Images/Screenshot_20240915-035145.png)
 
 The accounts that do the promotion of where to go are usually named Joseph with a set of digits at the end of their name. If you look at the two accounts that I have shown, the one above this text, the account follows the same numbers as the count that has just recently been caught. They also have a Mr.Beast profile picture with the same background as their banner which is the MAPs Flag ( Minor Attracted People, A fake LBGTQ group created by 4Chan as a troll).
 
@@ -34,11 +36,16 @@ The account that is usually used to either direct users to the material or to sp
 
 ## Second Attack
  On August 25th they had started another campaign where they would do the exact same thing, this time linking to a discord.
-![[Screenshot_20240915-034606.png]]
 
- ![[Screenshot_20240915-034548.png]]Immediately I have reached out to YouTube and got made them aware of that and then made an email out to the archive.is System Admin.
-![[Screenshot_20240915-035442.png]]
-![[Screenshot_20240915-034533.png]]
+![Start of the second attack](https://github.com/grandt0ur/Investigations/blob/main/Images/Screenshot_20240915-034606.png)
+
+![[The Gates Open]](https://github.com/grandt0ur/Investigations/blob/main/Images/Screenshot_20240915-034548.png)
+ 
+Immediately I have reached out to YouTube and got made them aware of that and then made an email out to the archive.is System Admin.
+
+![Screenshot_20240915-035442.png](https://github.com/grandt0ur/Investigations/blob/main/Images/Screenshot_20240915-035442.png)
+![Screenshot_20240915-034533.png](https://github.com/grandt0ur/Investigations/blob/main/Images/Screenshot_20240915-034533.png)
+
 After talking with the system admin of Archive.is, it was made aware to me that the link that was posted on the site likely linked to a Discord and it's possible that the material that they are sharing is on discord or they are using Discord as a middleman service to link directly to the actual material.
 
 There have been multiple attempts to try to track down these users by independent individuals, and yet nothing has arisen that would necessarily confirm the identity of the perpetrators who are spreading this material. As much as I would like to find this person, I realize that I also have to make sure that I play the game safe and don't get myself wrapped up in something that ultimately might mess me up.

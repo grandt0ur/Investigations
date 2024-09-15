@@ -8,7 +8,9 @@ https://www.reddit.com/r/youtube/comments/1dzcpnv/comment_bots_are_posting_cp_no
 
 ## First Attack
 On August 4 2024, I was made aware of a user who had uploaded DD via X ( fka Twitter). 
-![[Screenshot_20240915-034622.png]]
+![Initial Post](https://github.com/grandt0ur/Investigations/blob/main/Images/Screenshot_20240915-034622.png)
+
+
 Upon further investigation, it turns out that they posted the full video but it was heavily censored and manipulated Using certain techniques like making the video multicolored and changing those colors at very fast intervals as to prevent CSAM Detectiom Tools from detecting it. 
 
 The way that they would go about circumventing this and posting the uncensored one was they would look for websites that necessarily did not have CSAM Detection Tools, And in the event that a link was taken down, they would log into the "test" account, which was where the video is usually hosted, and change any of the links that were in the video's description.
